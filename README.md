@@ -28,13 +28,13 @@ Este é um projeto de API desenvolvido em Laravel para gerenciar planos. O proje
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seuusuario/seurepositorio.git
+    git clone https://github.com/thiagoJoseB/php_api
     ```
 
 2. **Navegue até o diretório do projeto:**
 
     ```bash
-    cd seurepositorio
+    cd php_api/api
     ```
 
 3. **Instale as dependências do projeto:**
